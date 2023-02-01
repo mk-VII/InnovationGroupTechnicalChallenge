@@ -1,0 +1,15 @@
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\bin\Debug\net7.0\InnovationGroupTechnicalChallenge.exe
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\bin\Debug\net7.0\InnovationGroupTechnicalChallenge.deps.json
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\bin\Debug\net7.0\InnovationGroupTechnicalChallenge.runtimeconfig.json
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\bin\Debug\net7.0\InnovationGroupTechnicalChallenge.dll
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\bin\Debug\net7.0\InnovationGroupTechnicalChallenge.pdb
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.csproj.AssemblyReference.cache
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.AssemblyInfoInputs.cache
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.AssemblyInfo.cs
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.dll
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\refint\InnovationGroupTechnicalChallenge.dll
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.pdb
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\InnovationGroupTechnicalChallenge.genruntimeconfig.cache
+C:\Users\Mark.Scholefield\source\repos\InnovationGroupTechnicalChallenge\InnovationGroupTechnicalChallenge\obj\Debug\net7.0\ref\InnovationGroupTechnicalChallenge.dll
